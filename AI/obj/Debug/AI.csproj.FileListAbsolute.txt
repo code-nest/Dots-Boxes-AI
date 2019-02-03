@@ -1,0 +1,19 @@
+C:\Users\00\source\repos\AI\AI\bin\Debug\AI.exe.config
+C:\Users\00\source\repos\AI\AI\bin\Debug\AI.exe
+C:\Users\00\source\repos\AI\AI\bin\Debug\AI.pdb
+C:\Users\00\source\repos\AI\AI\obj\Debug\AI.Form1.resources
+C:\Users\00\source\repos\AI\AI\obj\Debug\AI.Properties.Resources.resources
+C:\Users\00\source\repos\AI\AI\obj\Debug\AI.csproj.GenerateResource.cache
+C:\Users\00\source\repos\AI\AI\obj\Debug\AI.csproj.CoreCompileInputs.cache
+C:\Users\00\source\repos\AI\AI\obj\Debug\AI.exe
+C:\Users\00\source\repos\AI\AI\obj\Debug\AI.pdb
+C:\Users\00\source\repos\AI\AI\obj\Debug\AI.csprojAssemblyReference.cache
+F:\Fatemeh Sadeqi\AI\AI\bin\Debug\AI.exe.config
+F:\Fatemeh Sadeqi\AI\AI\bin\Debug\AI.exe
+F:\Fatemeh Sadeqi\AI\AI\bin\Debug\AI.pdb
+F:\Fatemeh Sadeqi\AI\AI\obj\Debug\AI.Form1.resources
+F:\Fatemeh Sadeqi\AI\AI\obj\Debug\AI.Properties.Resources.resources
+F:\Fatemeh Sadeqi\AI\AI\obj\Debug\AI.csproj.GenerateResource.cache
+F:\Fatemeh Sadeqi\AI\AI\obj\Debug\AI.csproj.CoreCompileInputs.cache
+F:\Fatemeh Sadeqi\AI\AI\obj\Debug\AI.exe
+F:\Fatemeh Sadeqi\AI\AI\obj\Debug\AI.pdb
